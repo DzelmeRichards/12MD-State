@@ -1,0 +1,25 @@
+.show-text__container {
+  margin-top: 20px;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  gap: 200px;
+}
+
+.show-text__button {
+  padding: 20px;
+  border-radius: 10px;
+  background-color: rgb(162, 162, 202);
+}
+
+.show-text__input {
+  padding: 20px;
+  border-radius: 10px;
+  background-color: rgb(222, 222, 233);
+  margin-top: 20px;
+}
+
+.show-text__display {
+  font-size: 74px;
+}
+

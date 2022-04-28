@@ -1,0 +1,27 @@
+.number-item {
+  padding: 10px 20px;
+  border: 1px solid black;
+}
+
+.number-container {
+  display: flex;
+  gap: 20px;
+  padding: 20px;
+  margin-top: 20px;
+
+}
+
+.number-array-button__container {
+  margin-top: 30px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+
+}
+
+.number-array__button {
+  padding: 20px;
+  border-radius: 10px;
+  background-color: rgb(162, 162, 202);
+  white-space: nowrap;
+}

@@ -1,0 +1,17 @@
+.calculator-first-level__container {
+  margin-top: 30px;
+  display: flex;
+  padding: 10px;
+  border: 1px solid black;
+  align-items: center;
+}
+
+.calculator__button {
+  padding: 5px 15px;
+  border-radius: 10px;
+}
+
+.calculator__input {
+  padding: 5px;
+  border-radius: 5px;
+}
